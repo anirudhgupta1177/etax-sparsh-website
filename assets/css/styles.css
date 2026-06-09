@@ -446,10 +446,10 @@ strong { color: var(--ink); font-weight: 700; }
 /* timeline */
 .timeline { max-width: 760px; margin: 0 auto; display: grid; gap: 0; position: relative; }
 .timeline::before { content: ""; position: absolute; left: 23px; top: 8px; bottom: 8px; width: 2px; background: var(--line); }
-.tl-item { display: grid; grid-template-columns: 48px 1fr; gap: 20px; padding-bottom: 32px; position: relative; }
-.tl-item__dot { width: 48px; height: 48px; border-radius: 14px; background: var(--grad-brand); color: #fff; font-family: var(--font-head); font-weight: 800; display: grid; place-items: center; box-shadow: var(--sh-brand); z-index: 1; font-size: .82rem; }
-.tl-item b { font-family: var(--font-head); color: var(--ink); font-size: 1.1rem; display: block; margin-bottom: 4px; }
-.tl-item p { font-size: .96rem; }
+.tl-item { display: grid; grid-template-columns: 48px 1fr; column-gap: 20px; row-gap: 0; padding-bottom: 32px; position: relative; }
+.tl-item__dot { grid-column: 1; grid-row: 1 / span 2; align-self: start; width: 48px; height: 48px; border-radius: 14px; background: var(--grad-brand); color: #fff; font-family: var(--font-head); font-weight: 800; display: grid; place-items: center; box-shadow: var(--sh-brand); z-index: 1; font-size: .82rem; }
+.tl-item b { grid-column: 2; font-family: var(--font-head); color: var(--ink); font-size: 1.1rem; display: block; margin-bottom: 4px; }
+.tl-item p { grid-column: 2; font-size: .96rem; }
 
 /* -----------------------  STYLE GUIDE  --------------------------- */
 .swatches { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 18px; }
