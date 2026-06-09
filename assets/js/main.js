@@ -1,4 +1,4 @@
-/* eTax Profilling — interactions */
+/* eTax Profilling - interactions */
 (function () {
   'use strict';
 

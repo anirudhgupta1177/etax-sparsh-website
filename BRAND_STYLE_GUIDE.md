@@ -1,4 +1,4 @@
-# eTax Profilling — Brand Style Guide
+# eTax Profilling - Brand Style Guide
 
 **Version 1.0** · Last updated June 2026
 A practical reference for designers, developers, marketers, and partners building anything that carries the eTax Profilling name.
@@ -25,19 +25,19 @@ A practical reference for designers, developers, marketers, and partners buildin
 
 ## 1. Brand Overview & Story
 
-**eTax Profilling** is an independent, Chartered-Accountant-led tax-filing service that combines real human expertise with smart, automated tools. We help individuals, freelancers, professionals, and businesses file their Income Tax Returns accurately, claim every legitimate deduction, stay GST-compliant, and plan ahead — without the jargon, the queues, or the hidden charges.
+**eTax Profilling** is an independent, Chartered-Accountant-led tax-filing service that combines real human expertise with smart, automated tools. We help individuals, freelancers, professionals, and businesses file their Income Tax Returns accurately, claim every legitimate deduction, stay GST-compliant, and plan ahead - without the jargon, the queues, or the hidden charges.
 
 We are headquartered in **Gwalior, Madhya Pradesh**, and serve taxpayers across India entirely online. Returns, notices, planning, and bookkeeping are handled remotely by qualified professionals, so a salaried employee in Bengaluru gets the same careful, reviewed-by-a-CA filing as a shop owner two streets from our office.
 
 ### Mission
 
-> To make professional, accurate tax filing simple and affordable for every Indian taxpayer — by pairing experienced Chartered Accountants with technology that removes the friction, not the human judgement.
+> To make professional, accurate tax filing simple and affordable for every Indian taxpayer - by pairing experienced Chartered Accountants with technology that removes the friction, not the human judgement.
 
 ### What we stand for
 
 - **People over portals.** A real, named expert reviews your return before it is filed.
 - **Honest pricing.** One clear fee, agreed up front. Zero hidden charges.
-- **Maximised, legitimate refunds.** Every deduction you are entitled to — nothing you are not.
+- **Maximised, legitimate refunds.** Every deduction you are entitled to - nothing you are not.
 - **Year-round peace of mind.** We are here in July and in January, for filings and for notices.
 
 ### The brand in one line
@@ -52,8 +52,8 @@ A modern, trustworthy, expert-led tax brand that feels less like a government fo
 
 **eTax Profilling**
 
-- **"eTax"** — *electronic, effortless tax.* The lowercase "e" signals a digital-first, online experience; "Tax" anchors the category instantly. No ambiguity about what we do.
-- **"Profilling"** — a deliberate play on **"Pro Filing"** (professional tax filing). The doubled "l" makes the wordmark distinctive and ownable while keeping the meaning legible: *filing, done professionally.*
+- **"eTax"** - *electronic, effortless tax.* The lowercase "e" signals a digital-first, online experience; "Tax" anchors the category instantly. No ambiguity about what we do.
+- **"Profilling"** - a deliberate play on **"Pro Filing"** (professional tax filing). The doubled "l" makes the wordmark distinctive and ownable while keeping the meaning legible: *filing, done professionally.*
 
 Together: **professional, effortless, electronic tax filing.**
 
@@ -70,13 +70,13 @@ Together: **professional, effortless, electronic tax filing.**
 
 ### Wordmark style
 
-The wordmark is set in **Plus Jakarta Sans**, weight **800 (ExtraBold)**, tight tracking. "eTax" renders in **Ink `#0A1633`**; "Profilling" renders in **Primary Blue `#1B4DFF`**. The two words sit on one line with a single space — they are never stacked, hyphenated, or broken.
+The wordmark is set in **Plus Jakarta Sans**, weight **800 (ExtraBold)**, tight tracking. "eTax" renders in **Ink `#0A1633`**; "Profilling" renders in **Primary Blue `#1B4DFF`**. The two words sit on one line with a single space - they are never stacked, hyphenated, or broken.
 
 ### What NOT to do
 
 - ❌ Do **not** spell it "Profiling" (single l), "Pro Filling", "Pro-Filling", or "eTax Profiling".
 - ❌ Do **not** capitalise as "ETAX PROFILLING" in body copy (all-caps is permitted only for short UI labels/buttons where the visual system already uppercases text).
-- ❌ Do **not** colour "eTax" blue and "Profilling" dark — the colour split is fixed (eTax = ink, Profilling = blue).
+- ❌ Do **not** colour "eTax" blue and "Profilling" dark - the colour split is fixed (eTax = ink, Profilling = blue).
 - ❌ Do **not** add a hyphen, dot, or "Pvt Ltd" inside the wordmark.
 - ❌ Do **not** translate or transliterate the name.
 - ❌ Do **not** imply the name refers to a government e-filing portal.
@@ -89,7 +89,7 @@ The wordmark is set in **Plus Jakarta Sans**, weight **800 (ExtraBold)**, tight 
 
 **Positioning statement:**
 
-> For Indian taxpayers who want their return filed correctly and their refund maximised, **eTax Profilling** is the independent, CA-led filing service that combines qualified human review with smart automation — so you get expert accuracy at a transparent, fixed price, without ever decoding a tax form yourself.
+> For Indian taxpayers who want their return filed correctly and their refund maximised, **eTax Profilling** is the independent, CA-led filing service that combines qualified human review with smart automation - so you get expert accuracy at a transparent, fixed price, without ever decoding a tax form yourself.
 
 ### Value proposition
 
@@ -119,7 +119,7 @@ Every piece of communication should ladder up to one of these five pillars. Lead
 
 | Pillar | What it promises | Example one-liners |
 | --- | --- | --- |
-| **Accuracy** | Returns reviewed by a qualified CA before filing. | "Reviewed by a real CA before it's filed." · "Right the first time — not after a notice." |
+| **Accuracy** | Returns reviewed by a qualified CA before filing. | "Reviewed by a real CA before it's filed." · "Right the first time - not after a notice." |
 | **Transparency** | One clear, fixed fee. No hidden charges. | "The price you see is the price you pay." · "Zero hidden charges. Ever." |
 | **Expertise** | Decades of combined Chartered-Accountant experience. | "Real Chartered Accountants, not a chatbot." · "Hard tax questions? We've answered them before." |
 | **Security** | Careful, compliant handling of your data and filings. | "Your data, handled with care." · "Compliant filings, every season." |
@@ -127,7 +127,7 @@ Every piece of communication should ladder up to one of these five pillars. Lead
 
 ### Voice guardrails for taglines
 
-- Keep claims **illustrative and honest** — e.g. "examples of refunds we've helped recover," never a guaranteed figure.
+- Keep claims **illustrative and honest** - e.g. "examples of refunds we've helped recover," never a guaranteed figure.
 - Never imply we are the government's official portal or that filing through us is mandatory.
 
 ---
@@ -145,9 +145,9 @@ Every piece of communication should ladder up to one of these five pillars. Lead
 
 ### Variants
 
-1. **Full colour** — "eTax" in Ink `#0A1633`, "Profilling" in Primary `#1B4DFF`, mark in the brand gradient. Default everywhere on light surfaces.
-2. **White / reversed** — entire lockup in white `#FFFFFF`. For dark backgrounds (ink gradient, CTA bands, photography). Never recolour individual words in the reversed version — it is solid white.
-3. **Mark** — the standalone glyph for favicons, social avatars, and constrained UI. The mark must remain recognisable and never be stretched.
+1. **Full colour** - "eTax" in Ink `#0A1633`, "Profilling" in Primary `#1B4DFF`, mark in the brand gradient. Default everywhere on light surfaces.
+2. **White / reversed** - entire lockup in white `#FFFFFF`. For dark backgrounds (ink gradient, CTA bands, photography). Never recolour individual words in the reversed version - it is solid white.
+3. **Mark** - the standalone glyph for favicons, social avatars, and constrained UI. The mark must remain recognisable and never be stretched.
 
 ### Clear space
 
@@ -158,9 +158,9 @@ Maintain clear space around the logo equal to the **height of the lowercase "e"*
 - **Full lockup:** minimum **120 px** wide on screen / **24 mm** in print.
 - **Mark only:** minimum **24 px** on screen / **8 mm** in print.
 
-Below these sizes, switch to the mark or increase the size — never ship an illegible wordmark.
+Below these sizes, switch to the mark or increase the size - never ship an illegible wordmark.
 
-### Misuse — do NOT
+### Misuse - do NOT
 
 - ❌ Stretch, squash, rotate, or skew the logo.
 - ❌ Change the wordmark colours (eTax stays ink, Profilling stays blue).
@@ -168,7 +168,7 @@ Below these sizes, switch to the mark or increase the size — never ship an ill
 - ❌ Add drop shadows, glows, outlines, or bevels.
 - ❌ Place the full-colour logo on a busy or low-contrast background (use the white version instead).
 - ❌ Recreate the mark with different geometry or recolour it off-palette.
-- ❌ Crowd the logo — always respect the clear-space rule.
+- ❌ Crowd the logo - always respect the clear-space rule.
 
 ---
 
@@ -202,20 +202,20 @@ Below these sizes, switch to the mark or increase the size — never ship an ill
 
 ### Usage ratios (guideline)
 
-Roughly **70%** neutral (White / BG Soft / Ink text), **20%** Primary blue, **10%** Accent mint + Gold combined. Mint and gold are accents — they punctuate, they don't fill.
+Roughly **70%** neutral (White / BG Soft / Ink text), **20%** Primary blue, **10%** Accent mint + Gold combined. Mint and gold are accents - they punctuate, they don't fill.
 
 ### WCAG contrast guidance
 
 | Pairing | Ratio (approx.) | Verdict |
 | --- | --- | --- |
-| Ink `#0A1633` on White | ~17.5:1 | ✅ AAA — body & headings |
-| Ink-2 `#41506E` on White | ~8.4:1 | ✅ AAA — body copy |
+| Ink `#0A1633` on White | ~17.5:1 | ✅ AAA - body & headings |
+| Ink-2 `#41506E` on White | ~8.4:1 | ✅ AAA - body copy |
 | Ink-3 `#6B7A99` on White | ~4.7:1 | ✅ AA (normal text); use for ≥16 px / captions |
 | Primary `#1B4DFF` on White | ~5.0:1 | ✅ AA (normal text), AAA large; fine for links/buttons |
-| White on Primary `#1B4DFF` | ~5.0:1 | ✅ AA — button labels |
-| White on Ink `#0A1633` | ~17.5:1 | ✅ AAA — reversed copy |
+| White on Primary `#1B4DFF` | ~5.0:1 | ✅ AA - button labels |
+| White on Ink `#0A1633` | ~17.5:1 | ✅ AAA - reversed copy |
 | Accent Mint `#12C58B` on White | ~2.3:1 | ⚠️ **Fails** for text. Use **Accent 700 `#0A8F63`** (~3.9:1, AA large / icons) for mint-coloured text; reserve `#12C58B` for fills, icons ≥24 px, and graphics. |
-| Gold `#FFB020` on White | ~1.7:1 | ⚠️ Decorative only — never use gold for text on white. |
+| Gold `#FFB020` on White | ~1.7:1 | ⚠️ Decorative only - never use gold for text on white. |
 
 **Rule of thumb:** body text must hit **4.5:1**; large text (≥24 px or ≥19 px bold) and UI components must hit **3:1**. When in doubt, darken to the `700` variant.
 
@@ -266,7 +266,7 @@ Scale down ~15–20% on mobile; never let body copy drop below **15 px**.
 
 ### Icons
 
-- **Style:** simple **stroke icons**, Lucide-style — `viewBox="0 0 24 24"`, `fill="none"`, `stroke="currentColor"`, `stroke-width="2"`, **round** line caps and joins.
+- **Style:** simple **stroke icons**, Lucide-style - `viewBox="0 0 24 24"`, `fill="none"`, `stroke="currentColor"`, `stroke-width="2"`, **round** line caps and joins.
 - **Colour:** inherit `currentColor` so icons adapt to context (brand blue, mint, ink, or white).
 - **Sizing:** 20–24 px inline; 24–28 px inside coloured icon chips (`.card__ico`).
 - **Consistency:** one visual weight across the product. Don't mix filled, duotone, and outline icons.
@@ -274,8 +274,8 @@ Scale down ~15–20% on mobile; never let body copy drop below **15 px**.
 ### Imagery & illustration
 
 - Favour **gradient cards, geometric shapes, and illustrative UI mock-ups** over photography.
-- Use **initials avatars** (e.g. "RK", "SP") on a brand-gradient or tinted circle for testimonials and team — never generic stock headshots.
-- When photography is used, prefer authentic Indian contexts (a freelancer at a laptop, a shopkeeper, a CA's desk) — natural light, candid, no exaggerated smiles.
+- Use **initials avatars** (e.g. "RK", "SP") on a brand-gradient or tinted circle for testimonials and team - never generic stock headshots.
+- When photography is used, prefer authentic Indian contexts (a freelancer at a laptop, a shopkeeper, a CA's desk) - natural light, candid, no exaggerated smiles.
 
 ### Imagery don'ts
 
@@ -302,7 +302,7 @@ Scale down ~15–20% on mobile; never let body copy drop below **15 px**.
 
 | Token | Use |
 | --- | --- |
-| `--sh-xs` | Subtle hairline lift — inputs, list rows |
+| `--sh-xs` | Subtle hairline lift - inputs, list rows |
 | `--sh-sm` | Resting cards |
 | `--sh-md` | Hover state for cards, dropdowns |
 | `--sh-lg` | Modals, featured/pricing cards, popovers |
@@ -326,7 +326,7 @@ Use a **4 px base unit**; prefer multiples of 8 for layout. Common steps: **4, 8
 ### Principles
 
 1. **Clear over clever.** Explain tax in plain language; expand acronyms on first use (ITR, GST, TDS).
-2. **Confident, not boastful.** We know our craft — we don't oversell or guarantee outcomes.
+2. **Confident, not boastful.** We know our craft - we don't oversell or guarantee outcomes.
 3. **Warm and human.** A trusted advisor, not a form or a bureaucrat.
 4. **Honest by default.** Transparent pricing, illustrative (never guaranteed) figures, no government affiliation implied.
 5. **Calm under pressure.** Tax can be stressful; our tone reassures and steadies.
@@ -335,7 +335,7 @@ Use a **4 px base unit**; prefer multiples of 8 for layout. Common steps: **4, 8
 
 - **Marketing / hero:** confident, benefit-led, energetic.
 - **Product / forms:** concise, instructional, friendly.
-- **Notices / errors:** calm, specific, reassuring — "Here's what happened and what we'll do."
+- **Notices / errors:** calm, specific, reassuring - "Here's what happened and what we'll do."
 - **Legal / disclaimers:** plain, precise, no spin.
 
 ### Do / Don't word examples
@@ -358,10 +358,10 @@ Avoid exclamation pile-ups, ALL-CAPS shouting, fear-mongering ("file now or face
 We target **WCAG 2.1 AA** across all digital surfaces.
 
 - **Contrast:** body text ≥ **4.5:1**; large text and UI components ≥ **3:1**. Use the `700` colour variants for blue/mint text (see §6). Gold and `#12C58B` are never used for text on white.
-- **Focus states:** every interactive element shows a visible focus ring — a 2 px Primary `#1B4DFF` outline with offset. Never remove `:focus-visible` styling.
+- **Focus states:** every interactive element shows a visible focus ring - a 2 px Primary `#1B4DFF` outline with offset. Never remove `:focus-visible` styling.
 - **Semantic HTML:** real heading hierarchy (one `<h1>` per page, no skipped levels), `<button>` for actions and `<a>` for navigation, `<label>` tied to every input, landmark regions (`<header>`, `<nav>`, `<main>`, `<footer>`).
 - **Alt text & ARIA:** meaningful `alt` on informative images, `aria-hidden="true"` on decorative SVG icons, `aria-label` on icon-only buttons, `aria-expanded` on accordions/menus.
-- **Reduced motion:** honour `prefers-reduced-motion: reduce` — disable parallax, large transitions, and counters; keep instant, non-animated states available.
+- **Reduced motion:** honour `prefers-reduced-motion: reduce` - disable parallax, large transitions, and counters; keep instant, non-animated states available.
 - **Targets & spacing:** tap targets ≥ **44 × 44 px**; never rely on colour alone to convey meaning (pair with text or icon).
 - **Forms:** clear labels, inline validation messages, and error text that names the field and the fix.
 
@@ -370,7 +370,7 @@ We target **WCAG 2.1 AA** across all digital surfaces.
 ## 12. Legal & Usage Note
 
 - **eTax Profilling is an independent professional tax-filing service.** We are **not affiliated with, endorsed by, or representing the Income Tax Department, the GST Network, or the Government of India** in any capacity. Do not use language, seals, or imagery that imply official or government status.
-- Filing through eTax Profilling is a **convenience and advisory service** — taxpayers remain responsible for the accuracy of the information they provide.
+- Filing through eTax Profilling is a **convenience and advisory service** - taxpayers remain responsible for the accuracy of the information they provide.
 - Any **refund, savings, or turnaround figures are illustrative examples**, not guarantees. Actual outcomes depend on each taxpayer's specific circumstances and prevailing law.
 - Brand assets (logo, wordmark, colours, name) are the property of eTax Profilling and may only be used per this guide and with permission.
 - "Chartered Accountant" and "CA" references denote qualified professionals associated with the service; specific engagements are governed by the terms agreed at the time of service.
@@ -379,7 +379,7 @@ We target **WCAG 2.1 AA** across all digital surfaces.
 
 ## 13. Contact
 
-**eTax Profilling** — Professional Tax Filing, Simplified.
+**eTax Profilling** - Professional Tax Filing, Simplified.
 
 | | |
 | --- | --- |
@@ -391,4 +391,4 @@ We target **WCAG 2.1 AA** across all digital surfaces.
 
 ---
 
-*© 2026 eTax Profilling. This brand style guide is an internal reference for teams and partners. Independent service — not affiliated with the Income Tax Department or Government of India.*
+*© 2026 eTax Profilling. This brand style guide is an internal reference for teams and partners. Independent service - not affiliated with the Income Tax Department or Government of India.*

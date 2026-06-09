@@ -1,6 +1,6 @@
-# eTax Profilling — Website
+# eTax Profilling - Website
 
-> **Professional Tax Filing, Simplified.** — The marketing website for eTax Profilling, an India-focused tax-filing brand pairing expert Chartered Accountants with smart AI tools.
+> **Professional Tax Filing, Simplified.** - The marketing website for eTax Profilling, an India-focused tax-filing brand pairing expert Chartered Accountants with smart AI tools.
 
 ![Status](https://img.shields.io/badge/status-live-12C58B?style=flat-square)
 ![Stack](https://img.shields.io/badge/stack-HTML%20%7C%20CSS%20%7C%20JS-1B4DFF?style=flat-square)
@@ -11,9 +11,9 @@
 
 ## About
 
-A modern, responsive, light-themed marketing site for the **eTax Profilling** tax-filing brand (a fully rebranded lookalike inspired by [taxbuddy.com](https://taxbuddy.com)). It is built as a **fast static site** — no build step, no framework, zero runtime dependencies — using semantic HTML5, a custom CSS design system driven by design tokens, and vanilla JavaScript.
+A modern, responsive, light-themed marketing site for the **eTax Profilling** tax-filing brand (a fully rebranded lookalike inspired by [taxbuddy.com](https://taxbuddy.com)). It is built as a **fast static site** - no build step, no framework, zero runtime dependencies - using semantic HTML5, a custom CSS design system driven by design tokens, and vanilla JavaScript.
 
-The brand positioning: expert Chartered Accountants + smart AI tools that file your Income Tax Return accurately, maximise eligible refunds, and keep you compliant — with zero hidden charges.
+The brand positioning: expert Chartered Accountants + smart AI tools that file your Income Tax Return accurately, maximise eligible refunds, and keep you compliant - with zero hidden charges.
 
 ---
 
@@ -21,13 +21,13 @@ The brand positioning: expert Chartered Accountants + smart AI tools that file y
 
 - **Expert-assisted content** for ITR filing, GST registration & returns, and year-round tax planning.
 - **Animated stat counters** that tick up on scroll (IntersectionObserver-driven).
-- **Scroll reveals** — cards and sections fade/slide into view with staggered delays.
-- **FAQ accordion** — accessible expand/collapse with rotating plus → × icon.
-- **Pricing toggle** — switch plan pricing/periods (e.g. one-time vs. annual) without a page reload.
-- **AJAX contact form** — submits via [FormSubmit](https://formsubmit.co) with inline success/error status, no page redirect.
-- **Cal.com inline booking embed** — book a discovery call directly on the site.
-- **Fully responsive** — mobile-first layout with documented grid breakpoints.
-- **Accessible** — real heading hierarchy, semantic landmarks, ARIA labels, keyboard-navigable controls, sufficient colour contrast.
+- **Scroll reveals** - cards and sections fade/slide into view with staggered delays.
+- **FAQ accordion** - accessible expand/collapse with rotating plus → × icon.
+- **Pricing toggle** - switch plan pricing/periods (e.g. one-time vs. annual) without a page reload.
+- **AJAX contact form** - submits via [FormSubmit](https://formsubmit.co) with inline success/error status, no page redirect.
+- **Cal.com inline booking embed** - book a discovery call directly on the site.
+- **Fully responsive** - mobile-first layout with documented grid breakpoints.
+- **Accessible** - real heading hierarchy, semantic landmarks, ARIA labels, keyboard-navigable controls, sufficient colour contrast.
 
 ---
 
@@ -38,7 +38,7 @@ The brand positioning: expert Chartered Accountants + smart AI tools that file y
 | Markup | **HTML5** (semantic, accessible) |
 | Styling | **CSS3** with custom properties (design tokens), no preprocessor |
 | Behaviour | **Vanilla JavaScript** (no framework, no bundler) |
-| Fonts | **Google Fonts** — Plus Jakarta Sans (headings), Inter (body) |
+| Fonts | **Google Fonts** - Plus Jakarta Sans (headings), Inter (body) |
 | Booking | **Cal.com** inline embed |
 | Forms | **FormSubmit** (AJAX) |
 | Dependencies | **None** |
@@ -86,7 +86,7 @@ Etax-sparsh-website/
 
 ## Brand
 
-**eTax Profilling** — wordmark rendered as **eTax** + **Profilling** (the second word in brand blue). Tagline: *"Professional Tax Filing, Simplified."* The full voice, tone, colour, and typography guidelines live in **[BRAND_STYLE_GUIDE.md](BRAND_STYLE_GUIDE.md)**.
+**eTax Profilling** - wordmark rendered as **eTax** + **Profilling** (the second word in brand blue). Tagline: *"Professional Tax Filing, Simplified."* The full voice, tone, colour, and typography guidelines live in **[BRAND_STYLE_GUIDE.md](BRAND_STYLE_GUIDE.md)**.
 
 **Core colours**
 
@@ -96,13 +96,13 @@ Etax-sparsh-website/
 | `--brand-accent` | `#12C58B` | Mint accent |
 | `--ink` | `#0A1633` | Headings / dark navy text |
 
-**Typography** — Plus Jakarta Sans for headings, Inter for body. Light theme throughout.
+**Typography** - Plus Jakarta Sans for headings, Inter for body. Light theme throughout.
 
 ---
 
 ## Run Locally
 
-The site is fully static — there's no build step. Serve the repo root with any static server, or simply open `index.html` in a browser.
+The site is fully static - there's no build step. Serve the repo root with any static server, or simply open `index.html` in a browser.
 
 ```bash
 # From the repo root
@@ -158,7 +158,7 @@ The site is deployed via **GitHub Pages** from the repository root.
 | **Colours / spacing / radii / shadows** | The `:root` design tokens (CSS custom properties) at the top of `assets/css/styles.css`. Update a token once and it cascades site-wide. |
 | **Contact details** | Search-and-replace the email, phone (incl. the `tel:` link), and address across the `.html` files (primarily `contact.html` and the shared footer). |
 | **Booking link** | Replace the Cal.com URL `cal.com/anirudh-gupta/discovery-call` in the CTAs and the embed. |
-| **Copy / content** | Edit the `<main>` sections of each page directly — content is plain HTML. |
+| **Copy / content** | Edit the `<main>` sections of each page directly - content is plain HTML. |
 | **Pricing plans** | Edit the `.price-card` blocks in `pricing.html` (and their `data-*` toggle attributes). |
 | **Fonts** | Swap the Google Fonts `<link>` in each page `<head>` and update the font-family tokens in `styles.css`. |
 
@@ -172,4 +172,4 @@ eTax Profilling is an **independent professional service**. It is **not affiliat
 
 ## License & Credits
 
-© eTax Profilling. All rights reserved. Built as a custom static marketing site — HTML5, CSS3, and vanilla JavaScript, with type by Google Fonts (Plus Jakarta Sans & Inter).
+© eTax Profilling. All rights reserved. Built as a custom static marketing site - HTML5, CSS3, and vanilla JavaScript, with type by Google Fonts (Plus Jakarta Sans & Inter).
