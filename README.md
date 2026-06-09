@@ -142,7 +142,7 @@ The site is deployed via **GitHub Pages** from the repository root.
 
 | Channel | Value |
 |---------|-------|
-| **Book a call** | [cal.com/anirudh-gupta/discovery-call](https://cal.com/anirudh-gupta/discovery-call) |
+| **Book a call** | [cal.com/sparsh-gupta-vzhbrz/30min](https://cal.com/sparsh-gupta-vzhbrz/30min) |
 | **Email** | [cesgupta100@gmail.com](mailto:cesgupta100@gmail.com) |
 | **Phone** | [+91 76978 60789](tel:+917697860789) |
 | **Address** | UG2, Rajkamal Apartment, City Centre, Gwalior 474002, India |
@@ -157,7 +157,7 @@ The site is deployed via **GitHub Pages** from the repository root.
 |----------------|-------|
 | **Colours / spacing / radii / shadows** | The `:root` design tokens (CSS custom properties) at the top of `assets/css/styles.css`. Update a token once and it cascades site-wide. |
 | **Contact details** | Search-and-replace the email, phone (incl. the `tel:` link), and address across the `.html` files (primarily `contact.html` and the shared footer). |
-| **Booking link** | Replace the Cal.com URL `cal.com/anirudh-gupta/discovery-call` in the CTAs and the embed. |
+| **Booking link** | Replace the Cal.com URL `cal.com/sparsh-gupta-vzhbrz/30min` in the CTAs and the embed. |
 | **Copy / content** | Edit the `<main>` sections of each page directly - content is plain HTML. |
 | **Pricing plans** | Edit the `.price-card` blocks in `pricing.html` (and their `data-*` toggle attributes). |
 | **Fonts** | Swap the Google Fonts `<link>` in each page `<head>` and update the font-family tokens in `styles.css`. |

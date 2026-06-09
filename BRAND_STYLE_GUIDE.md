@@ -387,7 +387,7 @@ We target **WCAG 2.1 AA** across all digital surfaces.
 | **Phone** | [+91 76978 60789](tel:+917697860789) |
 | **Address** | UG2, Rajkamal Apartment, City Centre, Gwalior 474002, India |
 | **Website** | [etaxprofilling.com](https://etaxprofilling.com) |
-| **Book a call** | [cal.com/anirudh-gupta/discovery-call](https://cal.com/anirudh-gupta/discovery-call) |
+| **Book a call** | [cal.com/sparsh-gupta-vzhbrz/30min](https://cal.com/sparsh-gupta-vzhbrz/30min) |
 
 ---
 
