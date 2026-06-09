@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs / deps (not used, but ignored just in case)
+node_modules/
+npm-debug.log*
+.env
+.env.local
+
+# Playwright / screenshots (local QA only)
+.playwright-mcp/
+*.jpeg
+*.png

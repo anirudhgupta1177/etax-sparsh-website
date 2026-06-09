@@ -1,0 +1,13 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="eTax Profilling mark">
+  <defs>
+    <linearGradient id="etpGrad" x1="6" y1="6" x2="90" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1B4DFF"/>
+      <stop offset="0.55" stop-color="#2E6BFF"/>
+      <stop offset="1" stop-color="#12C58B"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="88" height="88" rx="24" fill="url(#etpGrad)"/>
+  <!-- checkmark rising into an upward growth arrow -->
+  <path d="M24 50 L40 66 L74 26" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M56 26 L74 26 L74 44" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
